@@ -1,9 +1,3 @@
-# import datetime
-#
-# age = 21
-# date = datetime.datetime(2022, 11, 20).strftime("%d/%m/%Y")
-#
-# print("Pedro faz {} em {}".format(age, date))
 import random
 
 eduardo = True
